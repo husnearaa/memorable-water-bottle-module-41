@@ -1,0 +1,21 @@
+.bottle{
+    border: 2px solid seagreen;
+    padding:10px;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.bottle img{
+    width: 200px;
+
+}
+
+.btn{
+    padding: 10px;
+    color: white;
+    background-color: purple;
+ 
+}
+.btn:hover{
+    background-color: yellowgreen;
+}
